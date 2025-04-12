@@ -1,0 +1,4 @@
+arbitrage_bot@ C:\Users\klgas\Desktop\arbitrage_bot
+├── chart.js@3.9.1
+└── react-chartjs-2@4.3.1
+
